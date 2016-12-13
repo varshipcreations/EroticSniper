@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Erotic Sniper</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_now">Register now</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="username">User Name</string>
+    <string name="login">Login</string>
+</resources>
